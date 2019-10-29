@@ -1,0 +1,125 @@
+
+uiStart.png
+size: 2048,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bgStart
+  rotate: false
+  xy: 2, 285
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+btnBinhdan
+  rotate: false
+  xy: 1112, 7
+  size: 368, 276
+  orig: 368, 276
+  offset: 0, 0
+  index: -1
+btnDaiGia
+  rotate: false
+  xy: 742, 7
+  size: 368, 276
+  orig: 368, 276
+  offset: 0, 0
+  index: -1
+btnGetChip
+  rotate: false
+  xy: 1736, 719
+  size: 308, 82
+  orig: 308, 82
+  offset: 0, 0
+  index: -1
+btnHuy
+  rotate: false
+  xy: 1284, 509
+  size: 171, 74
+  orig: 171, 74
+  offset: 0, 0
+  index: -1
+btnLeft
+  rotate: false
+  xy: 1328, 303
+  size: 41, 60
+  orig: 41, 60
+  offset: 0, 0
+  index: -1
+btnOk
+  rotate: false
+  xy: 1284, 433
+  size: 171, 74
+  orig: 171, 74
+  offset: 0, 0
+  index: -1
+btnReturn
+  rotate: false
+  xy: 1284, 365
+  size: 104, 66
+  orig: 104, 66
+  offset: 0, 0
+  index: -1
+btnRight
+  rotate: false
+  xy: 1284, 303
+  size: 42, 60
+  orig: 42, 60
+  offset: 0, 0
+  index: -1
+btnStart
+  rotate: false
+  xy: 1284, 585
+  size: 450, 420
+  orig: 450, 420
+  offset: 0, 0
+  index: -1
+btnThuongGia
+  rotate: false
+  xy: 372, 3
+  size: 368, 280
+  orig: 368, 280
+  offset: 0, 0
+  index: -1
+btnTiPhu
+  rotate: false
+  xy: 2, 2
+  size: 368, 281
+  orig: 368, 281
+  offset: 0, 0
+  index: -1
+frSelectPeo
+  rotate: false
+  xy: 1482, 174
+  size: 450, 409
+  orig: 450, 409
+  offset: 0, 0
+  index: -1
+frameSelect
+  rotate: false
+  xy: 1390, 361
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+frmAvt
+  rotate: false
+  xy: 1482, 22
+  size: 390, 150
+  orig: 390, 150
+  offset: 0, 0
+  index: -1
+text
+  rotate: false
+  xy: 1736, 803
+  size: 303, 89
+  orig: 303, 89
+  offset: 0, 0
+  index: -1
+textChonBan
+  rotate: false
+  xy: 1736, 894
+  size: 277, 111
+  orig: 277, 111
+  offset: 0, 0
+  index: -1

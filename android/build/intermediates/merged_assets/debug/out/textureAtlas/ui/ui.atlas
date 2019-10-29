@@ -1,0 +1,349 @@
+
+ui.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Skip
+  rotate: false
+  xy: 2, 297
+  size: 150, 81
+  orig: 150, 81
+  offset: 0, 0
+  index: -1
+avtBot1
+  rotate: false
+  xy: 154, 312
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+avtBot2
+  rotate: false
+  xy: 2, 115
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+avtBot3
+  rotate: false
+  xy: 154, 422
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+avtBot4
+  rotate: false
+  xy: 2, 5
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+avtMe
+  rotate: false
+  xy: 2, 380
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+btnAddMore
+  rotate: false
+  xy: 1031, 899
+  size: 200, 80
+  orig: 200, 80
+  offset: 0, 0
+  index: -1
+btnBack
+  rotate: false
+  xy: 264, 412
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+btnClose
+  rotate: false
+  xy: 297, 514
+  size: 171, 74
+  orig: 171, 74
+  offset: 0, 0
+  index: -1
+btnDone
+  rotate: false
+  xy: 1031, 817
+  size: 200, 80
+  orig: 200, 80
+  offset: 0, 0
+  index: -1
+btnEspouse
+  rotate: false
+  xy: 1031, 1063
+  size: 200, 80
+  orig: 200, 80
+  offset: 0, 0
+  index: -1
+btnExit
+  rotate: false
+  xy: 1031, 741
+  size: 171, 74
+  orig: 171, 74
+  offset: 0, 0
+  index: -1
+btnNewGame
+  rotate: false
+  xy: 297, 590
+  size: 208, 73
+  orig: 208, 73
+  offset: 0, 0
+  index: -1
+btnSetting
+  rotate: false
+  xy: 1233, 1063
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+btnSkip
+  rotate: false
+  xy: 1031, 981
+  size: 200, 80
+  orig: 200, 80
+  offset: 0, 0
+  index: -1
+btnTmp
+  rotate: false
+  xy: 746, 673
+  size: 156, 57
+  orig: 156, 57
+  offset: 0, 0
+  index: -1
+btnTutorial
+  rotate: false
+  xy: 1233, 981
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+btnWatch
+  rotate: false
+  xy: 1284, 1451
+  size: 349, 93
+  orig: 349, 93
+  offset: 0, 0
+  index: -1
+c1
+  rotate: false
+  xy: 1912, 1464
+  size: 100, 80
+  orig: 100, 80
+  offset: 0, 0
+  index: -1
+c10
+  rotate: false
+  xy: 366, 432
+  size: 100, 80
+  orig: 100, 80
+  offset: 0, 0
+  index: -1
+c100
+  rotate: false
+  xy: 214, 2
+  size: 100, 80
+  orig: 100, 80
+  offset: 0, 0
+  index: -1
+c1000
+  rotate: false
+  xy: 214, 84
+  size: 100, 80
+  orig: 100, 80
+  offset: 0, 0
+  index: -1
+c10000
+  rotate: false
+  xy: 366, 186
+  size: 100, 80
+  orig: 100, 80
+  offset: 0, 0
+  index: -1
+c100000
+  rotate: false
+  xy: 112, 131
+  size: 100, 80
+  orig: 100, 80
+  offset: 0, 0
+  index: -1
+c1000000
+  rotate: false
+  xy: 264, 248
+  size: 100, 80
+  orig: 100, 80
+  offset: 0, 0
+  index: -1
+c10000000
+  rotate: false
+  xy: 366, 350
+  size: 100, 80
+  orig: 100, 80
+  offset: 0, 0
+  index: -1
+c100000000
+  rotate: false
+  xy: 1233, 899
+  size: 100, 80
+  orig: 100, 80
+  offset: 0, 0
+  index: -1
+c1000000000
+  rotate: false
+  xy: 366, 268
+  size: 100, 80
+  orig: 100, 80
+  offset: 0, 0
+  index: -1
+c10000000000
+  rotate: false
+  xy: 112, 49
+  size: 100, 80
+  orig: 100, 80
+  offset: 0, 0
+  index: -1
+c100000000000
+  rotate: false
+  xy: 1204, 735
+  size: 100, 80
+  orig: 100, 80
+  offset: 0, 0
+  index: -1
+c2
+  rotate: false
+  xy: 1233, 817
+  size: 100, 80
+  orig: 100, 80
+  offset: 0, 0
+  index: -1
+c5
+  rotate: false
+  xy: 264, 166
+  size: 100, 80
+  orig: 100, 80
+  offset: 0, 0
+  index: -1
+c500
+  rotate: false
+  xy: 264, 330
+  size: 100, 80
+  orig: 100, 80
+  offset: 0, 0
+  index: -1
+frameMonney
+  rotate: false
+  xy: 544, 682
+  size: 200, 48
+  orig: 200, 48
+  offset: 0, 0
+  index: -1
+frameNotice
+  rotate: false
+  xy: 1031, 1145
+  size: 250, 162
+  orig: 250, 162
+  offset: 0, 0
+  index: -1
+frameResult
+  rotate: false
+  xy: 1635, 1478
+  size: 275, 66
+  orig: 275, 66
+  offset: 0, 0
+  index: -1
+frameSetting
+  rotate: false
+  xy: 1284, 1546
+  size: 749, 483
+  orig: 749, 483
+  offset: 0, 0
+  index: -1
+frameWatchAds
+  rotate: false
+  xy: 2, 732
+  size: 1027, 575
+  orig: 1027, 575
+  offset: 0, 0
+  index: -1
+lightTurn
+  rotate: false
+  xy: 162, 213
+  size: 100, 97
+  orig: 100, 97
+  offset: 0, 0
+  index: -1
+nameBot
+  rotate: false
+  xy: 1790, 1446
+  size: 120, 30
+  orig: 120, 30
+  offset: 0, 0
+  index: -1
+namePlayer
+  rotate: false
+  xy: 1635, 1439
+  size: 153, 37
+  orig: 153, 37
+  offset: 0, 0
+  index: -1
+noticeTheo
+  rotate: false
+  xy: 2, 225
+  size: 158, 70
+  orig: 158, 70
+  offset: 0, 0
+  index: -1
+noticeTo
+  rotate: false
+  xy: 1284, 1323
+  size: 293, 126
+  orig: 293, 126
+  offset: 0, 0
+  index: -1
+noticeXalang
+  rotate: false
+  xy: 2, 532
+  size: 293, 131
+  orig: 293, 131
+  offset: 0, 0
+  index: -1
+sliderBar
+  rotate: false
+  xy: 2, 665
+  size: 540, 65
+  orig: 540, 65
+  offset: 0, 0
+  index: -1
+sliderCoins
+  rotate: false
+  xy: 1204, 676
+  size: 56, 57
+  orig: 56, 57
+  offset: 0, 0
+  index: -1
+table1
+  rotate: false
+  xy: 2, 1309
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+turnOff
+  rotate: false
+  xy: 904, 666
+  size: 148, 64
+  orig: 148, 64
+  offset: 0, 0
+  index: -1
+turnOn
+  rotate: false
+  xy: 1054, 673
+  size: 148, 66
+  orig: 148, 66
+  offset: 0, 0
+  index: -1

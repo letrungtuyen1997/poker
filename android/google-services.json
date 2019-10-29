@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "809995231586",
+    "firebase_url": "https://jkpoker-bee39.firebaseio.com",
+    "project_id": "jkpoker-bee39",
+    "storage_bucket": "jkpoker-bee39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809995231586:android:8126b6d12546002a4a8c3b",
+        "android_client_info": {
+          "package_name": "jk.poker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809995231586-52dbau1ttn88tpnm7srv9a4marj04960.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwaiKZX292IRNLwSCScUS3jQC8zS-Bcx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809995231586-52dbau1ttn88tpnm7srv9a4marj04960.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

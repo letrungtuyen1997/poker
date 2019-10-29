@@ -1,0 +1,4 @@
+#Mon Oct 28 10:26:33 ICT 2019
+base.0=/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
