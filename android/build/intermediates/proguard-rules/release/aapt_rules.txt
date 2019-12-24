@@ -24,6 +24,6 @@
 -keep class com.google.firebase.provider.FirebaseInitProvider { <init>(); }
 # Referenced at /Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/merged_manifests/release/AndroidManifest.xml:31
 -keep class com.jkstudiogroup.template.AndroidLauncher { <init>(); }
-# Referenced at /Users/dungle/.gradle/caches/transforms-2/files-2.1/07d8d1beea228337a17fce809f1bab55/res/layout/browser_actions_context_menu_page.xml:5
+# Referenced at /Users/dungle/.gradle/caches/transforms-2/files-2.1/b8ed9c0171bfe624ffe5315af39efdf4/res/layout/browser_actions_context_menu_page.xml:5
 -keep class androidx.browser.browseractions.BrowserActionsFallbackMenuView { <init>(...); }
 

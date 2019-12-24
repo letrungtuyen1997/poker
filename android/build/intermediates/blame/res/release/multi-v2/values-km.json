@@ -4,24 +4,7 @@
             "outputFile": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-km/values-km.xml",
             "map": [
                 {
-                    "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/e439c8f645d683a0d99f78a8f0c23ccc/res/values-km/values.xml",
-                    "from": {
-                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
-                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
-                        "startOffsets": "245,345,532,651,754,975,1097,1244,1378,1595,1699,1901,2024,2228,2412,2502,2586",
-                        "endColumns": "99,186,118,102,220,121,146,133,216,103,201,122,203,183,89,83,101",
-                        "endOffsets": "344,531,650,753,974,1096,1243,1377,1594,1698,1900,2023,2227,2411,2501,2585,2687"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,209,396,519,626,847,973,1124,1470,1687,1795,1997,2124,2328,2516,2610,2698",
-                        "endColumns": "103,186,122,106,220,125,150,137,216,107,201,126,203,187,93,87,105",
-                        "endOffsets": "204,391,514,621,842,968,1119,1257,1682,1790,1992,2119,2323,2511,2605,2693,2799"
-                    }
-                },
-                {
-                    "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/579b136ebb646de9018f30646bd4dbc7/res/values-km/values.xml",
+                    "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/47498910c7862cd8669e506a0c820461/res/values-km/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10",
                         "startColumns": "0,0,0,0,0,0,0",
@@ -38,24 +21,24 @@
                     }
                 },
                 {
-                    "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/cdd01e47ec0ce78bfbf6532686b0c905/res/values-km/values-km.xml",
+                    "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/2b29b2cb43da1fa0277d8b4c09738526/res/values-km/values.xml",
                     "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "245,345,532,651,754,975,1097,1244,1378,1595,1699,1901,2024,2228,2412,2502,2586",
+                        "endColumns": "99,186,118,102,220,121,146,133,216,103,201,122,203,183,89,83,101",
+                        "endOffsets": "344,531,650,753,974,1096,1243,1377,1594,1698,1900,2023,2227,2411,2501,2585,2687"
                     },
                     "to": {
-                        "startLines": "27",
-                        "startColumns": "4",
-                        "startOffsets": "3456",
-                        "endColumns": "100",
-                        "endOffsets": "3552"
+                        "startLines": "2,3,4,5,6,7,8,9,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,209,396,519,626,847,973,1124,1470,1687,1795,1997,2124,2328,2516,2610,2698",
+                        "endColumns": "103,186,122,106,220,125,150,137,216,107,201,126,203,187,93,87,105",
+                        "endOffsets": "204,391,514,621,842,968,1119,1257,1682,1790,1992,2119,2323,2511,2605,2693,2799"
                     }
                 },
                 {
-                    "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/56e297c7eecd58d4fdb7a177ce3baa57/res/values-km/values.xml",
+                    "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/80df3c7f11325f4f6d799df8757179f7/res/values-km/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -69,6 +52,23 @@
                         "startOffsets": "1262",
                         "endColumns": "207",
                         "endOffsets": "1465"
+                    }
+                },
+                {
+                    "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/714dcc76eaebf14d4d4b5a8b3c5186d2/res/values-km/values-km.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "27",
+                        "startColumns": "4",
+                        "startOffsets": "3456",
+                        "endColumns": "100",
+                        "endOffsets": "3552"
                     }
                 }
             ]

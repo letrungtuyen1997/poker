@@ -14,8 +14,6 @@ public interface IPlatform {
     public void CrashKey(String key, String value);
     public void Crashlog(String log);
 
-
-
     public void TrackCustomEvent(String event);
     public void TrackLevelInfo(String event, int mode, int difficult, int level);
     public void TrackPlayerInfo(String event, int mode, int difficult, int level);

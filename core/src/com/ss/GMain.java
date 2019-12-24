@@ -97,9 +97,6 @@ public class GMain
     XAssetsManager.init();
     SoundEffect.initSound();
     this.init();
-    mymonney = prefs.getLong("mymonney");
-    GMain.prefs.putLong("mymonney",1000000);
-    GMain.prefs.flush();
     checkFrist = prefs.getInteger("checkFirst");
     this.setScreen(new GameStart());
   }

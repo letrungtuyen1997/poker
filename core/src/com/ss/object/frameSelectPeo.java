@@ -38,15 +38,17 @@ public class frameSelectPeo  {
     Image btnLeft,btnRight;
     GameStart gameStart;
     long mucCuoc=0;
+    Image btnReturn;
 
 
-    public frameSelectPeo(TextureAtlas ui, Image btn1, Image btn2, Image btn3, Image btn4, BitmapFont font, int type, GameStart gameStart){
+    public frameSelectPeo(TextureAtlas ui, Image btn1, Image btn2, Image btn3, Image btn4, BitmapFont font, int type, GameStart gameStart, Image btnReturn){
         this.btn1 = btn1;
         this.btn2 = btn2;
         this.btn3 = btn3;
         this.btn4 = btn4;
         this.font = font;
         this.type = type;
+        this.btnReturn = btnReturn;
         this.gameStart = gameStart;
         GStage.addToLayer(GLayer.ui,group);
         this.ui = ui;
@@ -54,6 +56,7 @@ public class frameSelectPeo  {
 
     }
     void showFrame(){
+        btnReturn.setTouchable(Touchable.disabled);
         group.setPosition(GMain.screenWidth/2,GMain.screenHeight/2,Align.center);
         group.setOrigin(Align.center);
         group.setScale(0);
@@ -96,6 +99,7 @@ public class frameSelectPeo  {
                                 btn3.setTouchable(Touchable.enabled);
                                 btn4.setTouchable(Touchable.enabled);
                                 group.clear();
+                                btnReturn.setTouchable(Touchable.enabled);
                                 return true;
                             })
                     ));

@@ -1,5 +1,6 @@
 package com.ss.object;
 
+import com.badlogic.gdx.graphics.Color;
 import com.badlogic.gdx.graphics.g2d.BitmapFont;
 import com.badlogic.gdx.graphics.g2d.TextureAtlas;
 import com.badlogic.gdx.math.Interpolation;
@@ -25,10 +26,12 @@ import java.text.DecimalFormat;
 public class WatchVideo {
     TextureAtlas textureAtlas;
     Group group = new Group();
+    Group groupText = new Group();
     Runnable runnable;
     BitmapFont fontUi;
     WatchVideo(TextureAtlas textureAtlas, Runnable runnable ){
         GStage.addToLayer(GLayer.top,group);
+        GStage.addToLayer(GLayer.top,groupText);
         this.textureAtlas = textureAtlas;
         this.runnable = runnable;
         initfont();
@@ -86,14 +89,15 @@ public class WatchVideo {
                 }
             });
         }else {
-            Label notice = new Label("Chưa có Video tặng bạn 50.000$",new Label.LabelStyle(fontUi,null));
+            Label notice = new Label("Chưa có Video tặng bạn 50.000$",new Label.LabelStyle(fontUi, Color.RED));
             notice.setPosition(GMain.screenWidth/2,GMain.screenHeight/2,Align.center);
-            group.addActor(notice);
+            groupText.addActor(notice);
             notice.addAction(Actions.sequence(
-                    Actions.moveBy(0,-50,0.5f),
+                    Actions.moveBy(0,-50,1f),
                     GSimpleAction.simpleAction((d, a)->{
                         notice.clear();
                         notice.remove();
+                        groupText.clear();
                         GamePlay.myMonney+=50000;
                         GMain.prefs.putLong("mymonney",GamePlay.myMonney);
                         GMain.prefs.flush();

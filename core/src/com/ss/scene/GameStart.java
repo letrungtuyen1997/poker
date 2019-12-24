@@ -1,6 +1,7 @@
 package com.ss.scene;
 
 import com.badlogic.gdx.Gdx;
+import com.badlogic.gdx.graphics.Color;
 import com.badlogic.gdx.graphics.g2d.BitmapFont;
 import com.badlogic.gdx.graphics.g2d.TextureAtlas;
 import com.badlogic.gdx.math.Interpolation;
@@ -26,7 +27,7 @@ import com.ss.object.frameSelectPeo;
 import java.text.DecimalFormat;
 
 public class GameStart extends GScreen {
-    public TextureAtlas ui;
+    public TextureAtlas ui, ads;
     BitmapFont font,fontUi;
     public  Group group = new Group();
     public  Group groupavt = new Group();
@@ -35,7 +36,7 @@ public class GameStart extends GScreen {
     public static long MyMonney = GMain.prefs.getLong("mymonney");;
     Label Labelmonney;
     Image btnBD,btnTG,btnDG,btnTP;
-    Image btngetChips, btnStart,Text ;
+    Image btngetChips, btnStart,Text, btnReturn ;
 
     @Override
     public void dispose() {
@@ -63,7 +64,7 @@ public class GameStart extends GScreen {
     }
     void showbg(){
         if(GMain.prefs.getInteger("checkFirst")==0){
-            GMain.prefs.putLong("mymonney",1500000);
+            GMain.prefs.putLong("mymonney",3000000);
             GMain.prefs.flush();
             GMain.prefs.putInteger("checkFirst",1);
             GMain.prefs.flush();
@@ -188,7 +189,7 @@ public class GameStart extends GScreen {
         btnTP.setPosition(GMain.screenWidth/2+btnTP.getWidth()/2,GMain.screenHeight/2+btnTP.getHeight(),Align.center);
         groupIn.addActor(btnTP);
         //////// btn quay ve ////
-        Image btnReturn = GUI.createImage(ui,"btnReturn");
+        btnReturn = GUI.createImage(ui,"btnReturn");
         btnReturn.setPosition(GMain.screenWidth-btnReturn.getWidth()/2,btnReturn.getHeight()/2,Align.center);
         groupIn.addActor(btnReturn);
         eventbtnReturn(btnReturn);
@@ -243,7 +244,7 @@ public class GameStart extends GScreen {
                         Actions.scaleTo(1f,1f,0.1f)
                 ));
                 Tweens.setTimeout(group,0.2f,()->{
-                    new frameSelectPeo(ui,btnBD,btnTG,btnDG,btnTP,fontUi,type,GameStart.this);
+                    new frameSelectPeo(ui,btnBD,btnTG,btnDG,btnTP,fontUi,type,GameStart.this,btnReturn );
                 });
 
                 return super.touchDown(event, x, y, pointer, button);
@@ -264,13 +265,13 @@ public class GameStart extends GScreen {
                         Actions.scaleTo(1f,1f,0.1f)
                 ));
                 Tweens.setTimeout(group,0.2f,()->{
-                    showAds();
+                    showfrmNotice();
                 });
                 return super.touchDown(event, x, y, pointer, button);
             }
         });
     }
-    void showAds(){
+    void showAds(Image btn,Group groupAds){
         if(GMain.platform.isVideoRewardReady()) {
             GMain.platform.ShowVideoReward((boolean success) -> {
                 if (success) {
@@ -286,20 +287,77 @@ public class GameStart extends GScreen {
                 }
             });
         }else {
-            Label notice = new Label("Kiểm tra kết nối",new Label.LabelStyle(fontUi,null));
-            notice.setPosition(GMain.screenWidth/2,GMain.screenHeight/2,Align.center);
-            groupOut.addActor(notice);
+            Label notice = new Label("Kiểm tra kết nối",new Label.LabelStyle(fontUi, Color.RED));
+            notice.setPosition(0,0,Align.center);
+            groupAds.addActor(notice);
             notice.addAction(Actions.sequence(
                     Actions.moveBy(0,-50,0.5f),
                     GSimpleAction.simpleAction((d, a)->{
                         notice.clear();
                         notice.remove();
-                        btngetChips.setTouchable(Touchable.enabled);
+                        btn.setTouchable(Touchable.enabled);
                         return true;
                     })
             ));
 
         }
+    }
+    void showfrmNotice(){
+        Group groupAds = new Group();
+        GStage.addToLayer(GLayer.ui,groupAds);
+        groupAds.setPosition(GMain.screenWidth/2,GMain.screenHeight/2,Align.center);
+        groupAds.setScale(0);
+        Image frm = GUI.createImage(ads,"frameAds");
+        frm.setPosition(0,0, Align.center);
+        groupAds.addActor(frm);
+        Image btnclose = GUI.createImage(ads,"btnClose2");
+        btnclose.setPosition(-btnclose.getWidth(),btnclose.getHeight()*2,Align.center);
+        groupAds.addActor(btnclose);
+        Image btnXem = GUI.createImage(ads,"btnXem");
+        btnXem.setPosition(btnXem.getWidth(),btnXem.getHeight()*2,Align.center);
+        groupAds.addActor(btnXem);
+        groupAds.addAction(Actions.scaleTo(1,1,0.5f,Interpolation.bounceOut));
+        ////// event btn ///////
+        eventbtnXem(btnXem,groupAds);
+        eventbtnClose(btnclose,groupAds);
+    }
+    void  eventbtnXem(Image btn,Group group){
+        btn.setOrigin(Align.center);
+        btn.addListener(new ClickListener(){
+            @Override
+            public boolean touchDown(InputEvent event, float x, float y, int pointer, int button) {
+                SoundEffect.Play(SoundEffect.click);
+                btn.setTouchable(Touchable.disabled);
+                btn.addAction(Actions.sequence(
+                        Actions.scaleTo(0.8f,0.8f,0.1f),
+                        Actions.scaleTo(1f,1f,0.1f)
+                ));
+                Tweens.setTimeout(group,0.2f,()->{
+                    showAds(btn,group);
+                });
+                return super.touchDown(event, x, y, pointer, button);
+            }
+        });
+    }
+    void  eventbtnClose(Image btn,Group group){
+        btn.setOrigin(Align.center);
+        btn.addListener(new ClickListener(){
+            @Override
+            public boolean touchDown(InputEvent event, float x, float y, int pointer, int button) {
+                SoundEffect.Play(SoundEffect.click);
+                btn.setTouchable(Touchable.disabled);
+                btn.addAction(Actions.sequence(
+                        Actions.scaleTo(0.8f,0.8f,0.1f),
+                        Actions.scaleTo(1f,1f,0.1f)
+                ));
+                Tweens.setTimeout(group,0.2f,()->{
+                    group.clear();
+                    group.remove();
+                    btngetChips.setTouchable(Touchable.enabled);
+                });
+                return super.touchDown(event, x, y, pointer, button);
+            }
+        });
     }
     void aniBtn(Image btn,float duration){
         btn.addAction(Actions.sequence(
@@ -322,6 +380,7 @@ public class GameStart extends GScreen {
     }
     public void initAtlas(){
         ui = GAssetsManager.getTextureAtlas("ui/uiStart.atlas");
+        ads = GAssetsManager.getTextureAtlas("ui/ads.atlas");
         font = GAssetsManager.getBitmapFont("gold.fnt");
         fontUi = GAssetsManager.getBitmapFont("font_white.fnt");
     }

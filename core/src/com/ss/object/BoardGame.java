@@ -38,6 +38,8 @@ public class BoardGame {
     Group groupBtn = new Group();
     Array<Card> allCard = new Array<>();
     Array<Integer> cards;
+
+
     Image btnSkip,btnAddMore,btnEspouse;
     Group group = new Group();
     Group groupChips = new Group();
@@ -359,6 +361,8 @@ public class BoardGame {
                                     SumChips.renderChip(monneyIngame,GMain.screenWidth/2-70,180,true);
                                 });
                             });
+                            GMain.prefs.putLong("mymonney",gamePlay.myMonney);
+                            GMain.prefs.flush();
                             lightTurn.remove();
                             lifeInGame(0);
 
@@ -426,6 +430,8 @@ public class BoardGame {
                         SoundEffect.Play(SoundEffect.theo);
                         aniTheoTo(gamePlay.positionCards.get(0).x+20,gamePlay.positionCards.get(0).y,0);
                     }
+                    GMain.prefs.putLong("mymonney",gamePlay.myMonney);
+                    GMain.prefs.flush();
                     lightTurn.remove();
                     lifeInGame(0);
 
@@ -1275,7 +1281,6 @@ public class BoardGame {
         lightTurn.setPosition(x,y,Align.center);
         groupparticle.addActor(lightTurn);
         lightTurn.addAction(Actions.rotateTo(10000,duration));
-
     }
 
     void initFont(){

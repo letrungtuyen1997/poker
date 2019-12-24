@@ -1,0 +1,27 @@
+
+ads.png
+size: 2048,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+btnClose2
+  rotate: false
+  xy: 1284, 436
+  size: 171, 69
+  orig: 171, 69
+  offset: 0, 0
+  index: -1
+btnXem
+  rotate: false
+  xy: 2, 2
+  size: 171, 69
+  orig: 171, 69
+  offset: 0, 0
+  index: -1
+frameAds
+  rotate: false
+  xy: 2, 73
+  size: 1280, 432
+  orig: 1280, 432
+  offset: 0, 0
+  index: -1

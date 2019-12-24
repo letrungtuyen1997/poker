@@ -1,19 +1,19 @@
 [
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/drawable_common_google_signin_btn_icon_disabled.xml.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/e439c8f645d683a0d99f78a8f0c23ccc/res/drawable/common_google_signin_btn_icon_disabled.xml"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/2b29b2cb43da1fa0277d8b4c09738526/res/drawable/common_google_signin_btn_icon_disabled.xml"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/color_common_google_signin_btn_text_dark.xml.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/e439c8f645d683a0d99f78a8f0c23ccc/res/color/common_google_signin_btn_text_dark.xml"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/2b29b2cb43da1fa0277d8b4c09738526/res/color/common_google_signin_btn_text_dark.xml"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/layout-v21_notification_action_tombstone.xml.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/cdd01e47ec0ce78bfbf6532686b0c905/res/layout-v21/notification_action_tombstone.xml"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/714dcc76eaebf14d4d4b5a8b3c5186d2/res/layout-v21/notification_action_tombstone.xml"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/drawable-mdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/e439c8f645d683a0d99f78a8f0c23ccc/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/2b29b2cb43da1fa0277d8b4c09738526/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher.png.flat",
@@ -21,31 +21,31 @@
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/drawable-mdpi-v4_googleg_standard_color_18.png.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/e439c8f645d683a0d99f78a8f0c23ccc/res/drawable-mdpi-v4/googleg_standard_color_18.png"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/2b29b2cb43da1fa0277d8b4c09738526/res/drawable-mdpi-v4/googleg_standard_color_18.png"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/drawable-xhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/e439c8f645d683a0d99f78a8f0c23ccc/res/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/2b29b2cb43da1fa0277d8b4c09738526/res/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/color_common_google_signin_btn_text_light.xml.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/e439c8f645d683a0d99f78a8f0c23ccc/res/color/common_google_signin_btn_text_light.xml"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/2b29b2cb43da1fa0277d8b4c09738526/res/color/common_google_signin_btn_text_light.xml"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/cdd01e47ec0ce78bfbf6532686b0c905/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/714dcc76eaebf14d4d4b5a8b3c5186d2/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/drawable-xxhdpi-v4_googleg_standard_color_18.png.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/e439c8f645d683a0d99f78a8f0c23ccc/res/drawable-xxhdpi-v4/googleg_standard_color_18.png"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/2b29b2cb43da1fa0277d8b4c09738526/res/drawable-xxhdpi-v4/googleg_standard_color_18.png"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/drawable-hdpi-v4_googleg_standard_color_18.png.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/e439c8f645d683a0d99f78a8f0c23ccc/res/drawable-hdpi-v4/googleg_standard_color_18.png"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/2b29b2cb43da1fa0277d8b4c09738526/res/drawable-hdpi-v4/googleg_standard_color_18.png"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/drawable_common_google_signin_btn_icon_dark.xml.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/e439c8f645d683a0d99f78a8f0c23ccc/res/drawable/common_google_signin_btn_icon_dark.xml"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/2b29b2cb43da1fa0277d8b4c09738526/res/drawable/common_google_signin_btn_icon_dark.xml"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher.png.flat",
@@ -53,51 +53,51 @@
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/cdd01e47ec0ce78bfbf6532686b0c905/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/714dcc76eaebf14d4d4b5a8b3c5186d2/res/drawable-hdpi-v4/notification_bg_normal.9.png"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/drawable_common_google_signin_btn_icon_light_normal.xml.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/e439c8f645d683a0d99f78a8f0c23ccc/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/2b29b2cb43da1fa0277d8b4c09738526/res/drawable/common_google_signin_btn_icon_light_normal.xml"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/drawable_common_google_signin_btn_text_disabled.xml.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/e439c8f645d683a0d99f78a8f0c23ccc/res/drawable/common_google_signin_btn_text_disabled.xml"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/2b29b2cb43da1fa0277d8b4c09738526/res/drawable/common_google_signin_btn_text_disabled.xml"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/drawable-xhdpi-v4_googleg_standard_color_18.png.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/e439c8f645d683a0d99f78a8f0c23ccc/res/drawable-xhdpi-v4/googleg_standard_color_18.png"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/2b29b2cb43da1fa0277d8b4c09738526/res/drawable-xhdpi-v4/googleg_standard_color_18.png"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/drawable-mdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/e439c8f645d683a0d99f78a8f0c23ccc/res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/2b29b2cb43da1fa0277d8b4c09738526/res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/drawable-xhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/e439c8f645d683a0d99f78a8f0c23ccc/res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/2b29b2cb43da1fa0277d8b4c09738526/res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/drawable_common_google_signin_btn_text_light.xml.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/e439c8f645d683a0d99f78a8f0c23ccc/res/drawable/common_google_signin_btn_text_light.xml"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/2b29b2cb43da1fa0277d8b4c09738526/res/drawable/common_google_signin_btn_text_light.xml"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/drawable-xhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/e439c8f645d683a0d99f78a8f0c23ccc/res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/2b29b2cb43da1fa0277d8b4c09738526/res/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/layout_notification_action.xml.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/cdd01e47ec0ce78bfbf6532686b0c905/res/layout/notification_action.xml"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/714dcc76eaebf14d4d4b5a8b3c5186d2/res/layout/notification_action.xml"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/cdd01e47ec0ce78bfbf6532686b0c905/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/714dcc76eaebf14d4d4b5a8b3c5186d2/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/drawable_notification_tile_bg.xml.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/cdd01e47ec0ce78bfbf6532686b0c905/res/drawable/notification_tile_bg.xml"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/714dcc76eaebf14d4d4b5a8b3c5186d2/res/drawable/notification_tile_bg.xml"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/drawable-mdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/e439c8f645d683a0d99f78a8f0c23ccc/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/2b29b2cb43da1fa0277d8b4c09738526/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/drawable-anydpi-v26_ic_launcher_foreground.xml.flat",
@@ -105,91 +105,91 @@
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/drawable_common_google_signin_btn_text_light_normal.xml.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/e439c8f645d683a0d99f78a8f0c23ccc/res/drawable/common_google_signin_btn_text_light_normal.xml"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/2b29b2cb43da1fa0277d8b4c09738526/res/drawable/common_google_signin_btn_text_light_normal.xml"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/drawable-xhdpi-v4_common_full_open_on_phone.png.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/e439c8f645d683a0d99f78a8f0c23ccc/res/drawable-xhdpi-v4/common_full_open_on_phone.png"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/2b29b2cb43da1fa0277d8b4c09738526/res/drawable-xhdpi-v4/common_full_open_on_phone.png"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/drawable-hdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/e439c8f645d683a0d99f78a8f0c23ccc/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/2b29b2cb43da1fa0277d8b4c09738526/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/drawable_common_google_signin_btn_icon_light_focused.xml.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/e439c8f645d683a0d99f78a8f0c23ccc/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/2b29b2cb43da1fa0277d8b4c09738526/res/drawable/common_google_signin_btn_icon_light_focused.xml"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/drawable_common_google_signin_btn_icon_light.xml.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/e439c8f645d683a0d99f78a8f0c23ccc/res/drawable/common_google_signin_btn_icon_light.xml"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/2b29b2cb43da1fa0277d8b4c09738526/res/drawable/common_google_signin_btn_icon_light.xml"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/layout_notification_template_icon_group.xml.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/cdd01e47ec0ce78bfbf6532686b0c905/res/layout/notification_template_icon_group.xml"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/714dcc76eaebf14d4d4b5a8b3c5186d2/res/layout/notification_template_icon_group.xml"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/drawable-hdpi-v4_common_full_open_on_phone.png.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/e439c8f645d683a0d99f78a8f0c23ccc/res/drawable-hdpi-v4/common_full_open_on_phone.png"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/2b29b2cb43da1fa0277d8b4c09738526/res/drawable-hdpi-v4/common_full_open_on_phone.png"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/cdd01e47ec0ce78bfbf6532686b0c905/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/714dcc76eaebf14d4d4b5a8b3c5186d2/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/layout-v21_notification_template_custom_big.xml.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/cdd01e47ec0ce78bfbf6532686b0c905/res/layout-v21/notification_template_custom_big.xml"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/714dcc76eaebf14d4d4b5a8b3c5186d2/res/layout-v21/notification_template_custom_big.xml"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/drawable-xxhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/e439c8f645d683a0d99f78a8f0c23ccc/res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/2b29b2cb43da1fa0277d8b4c09738526/res/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/drawable-hdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/e439c8f645d683a0d99f78a8f0c23ccc/res/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/2b29b2cb43da1fa0277d8b4c09738526/res/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/drawable_notification_bg.xml.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/cdd01e47ec0ce78bfbf6532686b0c905/res/drawable/notification_bg.xml"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/714dcc76eaebf14d4d4b5a8b3c5186d2/res/drawable/notification_bg.xml"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/cdd01e47ec0ce78bfbf6532686b0c905/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/714dcc76eaebf14d4d4b5a8b3c5186d2/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/layout_notification_action_tombstone.xml.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/cdd01e47ec0ce78bfbf6532686b0c905/res/layout/notification_action_tombstone.xml"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/714dcc76eaebf14d4d4b5a8b3c5186d2/res/layout/notification_action_tombstone.xml"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/drawable_common_google_signin_btn_text_dark.xml.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/e439c8f645d683a0d99f78a8f0c23ccc/res/drawable/common_google_signin_btn_text_dark.xml"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/2b29b2cb43da1fa0277d8b4c09738526/res/drawable/common_google_signin_btn_text_dark.xml"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/cdd01e47ec0ce78bfbf6532686b0c905/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/714dcc76eaebf14d4d4b5a8b3c5186d2/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/drawable_common_google_signin_btn_text_light_focused.xml.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/e439c8f645d683a0d99f78a8f0c23ccc/res/drawable/common_google_signin_btn_text_light_focused.xml"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/2b29b2cb43da1fa0277d8b4c09738526/res/drawable/common_google_signin_btn_text_light_focused.xml"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/cdd01e47ec0ce78bfbf6532686b0c905/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/714dcc76eaebf14d4d4b5a8b3c5186d2/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/drawable_common_google_signin_btn_icon_dark_normal.xml.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/e439c8f645d683a0d99f78a8f0c23ccc/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/2b29b2cb43da1fa0277d8b4c09738526/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/drawable-hdpi-v4_googleg_disabled_color_18.png.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/e439c8f645d683a0d99f78a8f0c23ccc/res/drawable-hdpi-v4/googleg_disabled_color_18.png"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/2b29b2cb43da1fa0277d8b4c09738526/res/drawable-hdpi-v4/googleg_disabled_color_18.png"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/drawable-xxhdpi-v4_googleg_disabled_color_18.png.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/e439c8f645d683a0d99f78a8f0c23ccc/res/drawable-xxhdpi-v4/googleg_disabled_color_18.png"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/2b29b2cb43da1fa0277d8b4c09738526/res/drawable-xxhdpi-v4/googleg_disabled_color_18.png"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/drawable-mdpi-v4_googleg_disabled_color_18.png.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/e439c8f645d683a0d99f78a8f0c23ccc/res/drawable-mdpi-v4/googleg_disabled_color_18.png"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/2b29b2cb43da1fa0277d8b4c09738526/res/drawable-mdpi-v4/googleg_disabled_color_18.png"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher.png.flat",
@@ -201,7 +201,7 @@
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/layout-v21_notification_template_icon_group.xml.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/cdd01e47ec0ce78bfbf6532686b0c905/res/layout-v21/notification_template_icon_group.xml"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/714dcc76eaebf14d4d4b5a8b3c5186d2/res/layout-v21/notification_template_icon_group.xml"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/drawable-mdpi_ic_launcher.png.flat",
@@ -209,15 +209,15 @@
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/cdd01e47ec0ce78bfbf6532686b0c905/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/714dcc76eaebf14d4d4b5a8b3c5186d2/res/drawable-mdpi-v4/notification_bg_normal.9.png"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/layout_notification_template_part_chronometer.xml.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/cdd01e47ec0ce78bfbf6532686b0c905/res/layout/notification_template_part_chronometer.xml"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/714dcc76eaebf14d4d4b5a8b3c5186d2/res/layout/notification_template_part_chronometer.xml"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/cdd01e47ec0ce78bfbf6532686b0c905/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/714dcc76eaebf14d4d4b5a8b3c5186d2/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher.png.flat",
@@ -225,11 +225,11 @@
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/drawable-mdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/e439c8f645d683a0d99f78a8f0c23ccc/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/2b29b2cb43da1fa0277d8b4c09738526/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/drawable_notification_icon_background.xml.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/cdd01e47ec0ce78bfbf6532686b0c905/res/drawable/notification_icon_background.xml"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/714dcc76eaebf14d4d4b5a8b3c5186d2/res/drawable/notification_icon_background.xml"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/drawable-xhdpi_ic_launcher.png.flat",
@@ -237,31 +237,31 @@
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/cdd01e47ec0ce78bfbf6532686b0c905/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/714dcc76eaebf14d4d4b5a8b3c5186d2/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/cdd01e47ec0ce78bfbf6532686b0c905/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/714dcc76eaebf14d4d4b5a8b3c5186d2/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/drawable_common_google_signin_btn_icon_dark_focused.xml.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/e439c8f645d683a0d99f78a8f0c23ccc/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/2b29b2cb43da1fa0277d8b4c09738526/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/drawable-xxhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/e439c8f645d683a0d99f78a8f0c23ccc/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/2b29b2cb43da1fa0277d8b4c09738526/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/drawable_notification_bg_low.xml.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/cdd01e47ec0ce78bfbf6532686b0c905/res/drawable/notification_bg_low.xml"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/714dcc76eaebf14d4d4b5a8b3c5186d2/res/drawable/notification_bg_low.xml"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/layout_notification_template_part_time.xml.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/cdd01e47ec0ce78bfbf6532686b0c905/res/layout/notification_template_part_time.xml"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/714dcc76eaebf14d4d4b5a8b3c5186d2/res/layout/notification_template_part_time.xml"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/cdd01e47ec0ce78bfbf6532686b0c905/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/714dcc76eaebf14d4d4b5a8b3c5186d2/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher.png.flat",
@@ -269,11 +269,11 @@
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/drawable_common_google_signin_btn_text_dark_focused.xml.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/e439c8f645d683a0d99f78a8f0c23ccc/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/2b29b2cb43da1fa0277d8b4c09738526/res/drawable/common_google_signin_btn_text_dark_focused.xml"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/cdd01e47ec0ce78bfbf6532686b0c905/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/714dcc76eaebf14d4d4b5a8b3c5186d2/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/drawable-anydpi-v26_ic_launcher.xml.flat",
@@ -285,19 +285,19 @@
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/drawable-hdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/e439c8f645d683a0d99f78a8f0c23ccc/res/drawable-hdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/2b29b2cb43da1fa0277d8b4c09738526/res/drawable-hdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/cdd01e47ec0ce78bfbf6532686b0c905/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/714dcc76eaebf14d4d4b5a8b3c5186d2/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/drawable-xxhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/e439c8f645d683a0d99f78a8f0c23ccc/res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/2b29b2cb43da1fa0277d8b4c09738526/res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/layout_browser_actions_context_menu_page.xml.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/07d8d1beea228337a17fce809f1bab55/res/layout/browser_actions_context_menu_page.xml"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/b8ed9c0171bfe624ffe5315af39efdf4/res/layout/browser_actions_context_menu_page.xml"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/drawable-xxxhdpi_ic_launcher.png.flat",
@@ -305,31 +305,31 @@
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/drawable_common_google_signin_btn_text_dark_normal.xml.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/e439c8f645d683a0d99f78a8f0c23ccc/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/2b29b2cb43da1fa0277d8b4c09738526/res/drawable/common_google_signin_btn_text_dark_normal.xml"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/color_common_google_signin_btn_tint.xml.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/e439c8f645d683a0d99f78a8f0c23ccc/res/color/common_google_signin_btn_tint.xml"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/2b29b2cb43da1fa0277d8b4c09738526/res/color/common_google_signin_btn_tint.xml"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/layout_browser_actions_context_menu_row.xml.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/07d8d1beea228337a17fce809f1bab55/res/layout/browser_actions_context_menu_row.xml"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/b8ed9c0171bfe624ffe5315af39efdf4/res/layout/browser_actions_context_menu_row.xml"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/layout-v16_notification_template_custom_big.xml.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/cdd01e47ec0ce78bfbf6532686b0c905/res/layout-v16/notification_template_custom_big.xml"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/714dcc76eaebf14d4d4b5a8b3c5186d2/res/layout-v16/notification_template_custom_big.xml"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/drawable-v21_notification_action_background.xml.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/cdd01e47ec0ce78bfbf6532686b0c905/res/drawable-v21/notification_action_background.xml"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/714dcc76eaebf14d4d4b5a8b3c5186d2/res/drawable-v21/notification_action_background.xml"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/drawable-xxhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/e439c8f645d683a0d99f78a8f0c23ccc/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/2b29b2cb43da1fa0277d8b4c09738526/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/drawable-hdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/e439c8f645d683a0d99f78a8f0c23ccc/res/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/2b29b2cb43da1fa0277d8b4c09738526/res/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/xml_remote_config_defaults.xml.flat",
@@ -337,18 +337,18 @@
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/drawable-xhdpi-v4_googleg_disabled_color_18.png.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/e439c8f645d683a0d99f78a8f0c23ccc/res/drawable-xhdpi-v4/googleg_disabled_color_18.png"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/2b29b2cb43da1fa0277d8b4c09738526/res/drawable-xhdpi-v4/googleg_disabled_color_18.png"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/cdd01e47ec0ce78bfbf6532686b0c905/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/714dcc76eaebf14d4d4b5a8b3c5186d2/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/layout-v21_notification_action.xml.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/cdd01e47ec0ce78bfbf6532686b0c905/res/layout-v21/notification_action.xml"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/714dcc76eaebf14d4d4b5a8b3c5186d2/res/layout-v21/notification_action.xml"
     },
     {
         "merged": "/Users/dungle/Desktop/libgdx/PokerGame/android/build/intermediates/res/merged/release/drawable-xhdpi-v4_common_google_signin_btn_icon_dark_normal_background.9.png.flat",
-        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/e439c8f645d683a0d99f78a8f0c23ccc/res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+        "source": "/Users/dungle/.gradle/caches/transforms-2/files-2.1/2b29b2cb43da1fa0277d8b4c09738526/res/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
     }
 ]

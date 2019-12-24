@@ -110,7 +110,46 @@ limitMemory=true
 useIndexes=true
 
 scaleFactors=[{suffix:"",factor:1,resampling:bicubic}]
-inputFiles=[{path:../../../../../sound/assetGameplayPoker/bgStart.png,type:Input,regionName:null},{path:../../../../../sound/assetGameplayPoker/btnGetChip.png,type:Input,regionName:null},{path:../../../../../sound/assetGameplayPoker/frmAvt.png,type:Input,regionName:null},{path:../../../../../sound/assetGameplayPoker/text.png,type:Input,regionName:null},{path:../../../../../sound/assetGameplayPoker/btnStart.png,type:Input,regionName:null},{path:../../../../../sound/assetGameplayPoker/btnBinhdan.png,type:Input,regionName:null},{path:../../../../../sound/assetGameplayPoker/btnDaiGia.png,type:Input,regionName:null},{path:../../../../../sound/assetGameplayPoker/btnThuongGia.png,type:Input,regionName:null},{path:../../../../../sound/assetGameplayPoker/btnTiPhu.png,type:Input,regionName:null},{path:../../../../../sound/assetGameplayPoker/frameSelect.png,type:Input,regionName:null},{path:../../../../../sound/assetGameplayPoker/textChonBan.png,type:Input,regionName:null},{path:../../../../../sound/assetGameplayPoker/btnHuy.png,type:Input,regionName:null},{path:../../../../../sound/assetGameplayPoker/btnOk.png,type:Input,regionName:null},{path:../../../../../sound/assetGameplayPoker/frSelectPeo.png,type:Input,regionName:null},{path:../../../../../sound/assetGameplayPoker/btnRight.png,type:Input,regionName:null},{path:../../../../../sound/assetGameplayPoker/btnLeft.png,type:Input,regionName:null},{path:../../../../../sound/assetGameplayPoker/bgStart.png,type:Input,regionName:null},{path:../../../../../sound/assetGameplayPoker/btnReturn.png,type:Input,regionName:null}]
+inputFiles=[{path:../../../../../sound/assetGameplayPoker/bgStart.png,type:Input,regionName:null},{path:../../../../../sound/assetGameplayPoker/btnGetChip.png,type:Input,regionName:null},{path:../../../../../sound/assetGameplayPoker/frmAvt.png,type:Input,regionName:null},{path:../../../../../sound/assetGameplayPoker/text.png,type:Input,regionName:null},{path:../../../../../sound/assetGameplayPoker/btnStart.png,type:Input,regionName:null},{path:../../../../../sound/assetGameplayPoker/btnBinhdan.png,type:Input,regionName:null},{path:../../../../../sound/assetGameplayPoker/btnDaiGia.png,type:Input,regionName:null},{path:../../../../../sound/assetGameplayPoker/btnThuongGia.png,type:Input,regionName:null},{path:../../../../../sound/assetGameplayPoker/btnTiPhu.png,type:Input,regionName:null},{path:../../../../../sound/assetGameplayPoker/frameSelect.png,type:Input,regionName:null},{path:../../../../../sound/assetGameplayPoker/textChonBan.png,type:Input,regionName:null},{path:../../../../../sound/assetGameplayPoker/btnHuy.png,type:Input,regionName:null},{path:../../../../../sound/assetGameplayPoker/btnOk.png,type:Input,regionName:null},{path:../../../../../sound/assetGameplayPoker/frSelectPeo.png,type:Input,regionName:null},{path:../../../../../sound/assetGameplayPoker/btnRight.png,type:Input,regionName:null},{path:../../../../../sound/assetGameplayPoker/btnLeft.png,type:Input,regionName:null},{path:../../../../../sound/assetGameplayPoker/btnReturn.png,type:Input,regionName:null}]
+
+
+---
+
+name=ads
+filename=
+output=.
+
+alias=true
+alphaThreshold=0
+debug=false
+duplicatePadding=false
+edgePadding=true
+fast=false
+filterMag=Nearest
+filterMin=Nearest
+ignoreBlankImages=true
+maxHeight=2048
+maxWidth=2048
+minHeight=16
+minWidth=16
+paddingX=2
+paddingY=2
+pot=true
+mof=false
+rotation=false
+stripWhitespaceX=false
+stripWhitespaceY=false
+wrapX=ClampToEdge
+wrapY=ClampToEdge
+premultiplyAlpha=false
+grid=false
+square=false
+bleed=true
+limitMemory=true
+useIndexes=true
+
+scaleFactors=[{suffix:"",factor:1,resampling:bicubic}]
+inputFiles=[{path:../../../../../AssetAllGame/assetGameplayPoker/btnClose2.png,type:Input,regionName:null},{path:../../../../../AssetAllGame/assetGameplayPoker/btnXem.png,type:Input,regionName:null},{path:../../../../../AssetAllGame/assetGameplayPoker/frameAds.png,type:Input,regionName:null}]
 
 
 -PROJ-
